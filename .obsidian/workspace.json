@@ -170,20 +170,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "dangerzone-writing-plugin:Dangerzone Writing": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "command-palette:コマンドパレットを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
       "random-note:ランダムノートを開く": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-git:Open Git source control": false,
+      "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "91da9d076211d2ce",
   "lastOpenFiles": [
     "(template/レギュメン用プロフィール.md",
     "(idealist/無題のファイル.md",
