@@ -1,5 +1,5 @@
 {
-  "countdownSeconds": "180",
+  "countdownSeconds": "120",
   "secondsUntilDeletion": "5",
   "succesfullSessionCount": "4",
   "customEditorFontSize": "",
