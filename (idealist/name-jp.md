@@ -1,9 +1,7 @@
 # Material
-Washi gichumoku
 # Surname
-
+しば（５）
 # Given name
 まい（３）
 なの（４）
-ほのか（６）
 # Fullname
