@@ -142,7 +142,11 @@
     "ally/rival": 1,
     "contrast": 54,
     "guardian": 55,
-    "guardian/ally": 1
+    "guardian/ally": 1,
+    "halford": 56,
+    "filreil": 57,
+    "filreil/student": 1,
+    "hero/common": 3
   },
   "_version": 3
 }
