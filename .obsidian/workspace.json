@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seger family/レナ・シーガー.md",
+                "file": "(template/レギュメン用プロフィール.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "レナ・シーガー"
+              "title": "レギュメン用プロフィール"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seger family/レナ・シーガー.md",
+                "file": "(template/レギュメン用プロフィール.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "レナ・シーガーへのバックリンク"
+              "title": "レギュメン用プロフィールへのバックリンク"
             }
           },
           {
@@ -185,8 +185,9 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "(template/レギュメン用プロフィール.md",
+    "(template/空白の設定.md",
     "Seger family/レナ・シーガー.md",
+    "(template/レギュメン用プロフィール.md",
     "(idealist/name-jp.md",
     "(overview/デッドエンドはもういらない.md",
     "(template/質問リスト用.md",
@@ -194,7 +195,6 @@
     "無題のファイル.md",
     "(overview",
     "(idealist",
-    "(template/空白の設定.md",
     "(template/真の空白.md",
     "(question list/クロックアイテム関連.md",
     "(outline/ざっくりあらすじ.md",
