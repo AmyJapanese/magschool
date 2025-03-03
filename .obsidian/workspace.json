@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seger family/フレイア・シーガー.md",
+                "file": "(overview/デッドエンドはもういらない.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フレイア・シーガー"
+              "title": "デッドエンドはもういらない"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seger family/フレイア・シーガー.md",
+                "file": "(overview/デッドエンドはもういらない.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "フレイア・シーガーへのバックリンク"
+              "title": "デッドエンドはもういらないへのバックリンク"
             }
           },
           {
@@ -185,8 +185,8 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "(overview/デッドエンドはもういらない.md",
     "Seger family/フレイア・シーガー.md",
+    "(overview/デッドエンドはもういらない.md",
     "(template/レギュメン用プロフィール.md",
     "(template/空白の設定.md",
     "(idealist/name-jp.md",
