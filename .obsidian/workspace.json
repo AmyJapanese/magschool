@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Alies family/フレイア・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一年目あらすじ"
+              "title": "フレイア・アリエス"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Alies family/フレイア・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "一年目あらすじへのバックリンク"
+              "title": "フレイア・アリエスへのバックリンク"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Alies family/フレイア・アリエス.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "一年目あらすじからのアウトゴーイングリンク"
+              "title": "フレイア・アリエスからのアウトゴーイングリンク"
             }
           },
           {
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Alies family/フレイア・アリエス.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一年目あらすじのアウトライン"
+              "title": "フレイア・アリエスのアウトライン"
             }
           },
           {
@@ -161,7 +161,8 @@
               "title": "タグ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,8 +185,8 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "Alies family/フレイア・アリエス.md",
     "(outline/year 1/一年目あらすじ.md",
+    "Alies family/フレイア・アリエス.md",
     "Alies family/ロジャー・アリエス.md",
     "immorter/ロード・モルガン.md",
     "immorter/(overview/イモーターについて.md",
