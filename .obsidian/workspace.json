@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seger family/フレイア・アリエス.md",
+                "file": "Alies family/ロジャー・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フレイア・アリエス"
+              "title": "ロジャー・アリエス"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seger family/フレイア・アリエス.md",
+                "file": "Alies family/ロジャー・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "フレイア・アリエスへのバックリンク"
+              "title": "ロジャー・アリエスへのバックリンク"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "タグ"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,15 +182,16 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "ee49170506042b8f",
   "lastOpenFiles": [
     "(overview/デッドエンドはもういらない.md",
-    "Seger family/フレイア・アリエス.md",
+    "Alies family/ロジャー・アリエス.md",
+    "Alies family/フレイア・アリエス.md",
     "(template/レギュメン用プロフィール.md",
     "(template/空白の設定.md",
     "(idealist/name-jp.md",
     "(template/質問リスト用.md",
-    "Seger family",
+    "Alies family",
     "無題のファイル.md",
     "(overview",
     "(idealist",
@@ -217,7 +217,6 @@
     "(script",
     "ryuji & Laiden",
     "(overview/作品概要.md",
-    "magic&wizard/魔術師.md",
     "magic&wizard/(overview",
     "magic&wizard",
     "(outline",
