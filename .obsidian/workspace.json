@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alies family/フレイア・アリエス.md",
+                "file": "(overview/デッドエンドはもういらない.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フレイア・アリエス"
+              "title": "デッドエンドはもういらない"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alies family/フレイア・アリエス.md",
+                "file": "(overview/デッドエンドはもういらない.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "フレイア・アリエスへのバックリンク"
+              "title": "デッドエンドはもういらないへのバックリンク"
             }
           },
           {
@@ -182,10 +182,13 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "91da9d076211d2ce",
+  "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "two world/real world/ハルフォードは魔導学校.md",
+    "(outline/year 1/一年目あらすじ.md",
+    "(outline/year 1",
     "Alies family/フレイア・アリエス.md",
+    "(outline",
+    "two world/real world/ハルフォードは魔導学校.md",
     "Alies family/ロジャー・アリエス.md",
     "immorter/(overview/イモーターについて.md",
     "(overview/デッドエンドはもういらない.md",
@@ -204,7 +207,6 @@
     "(idealist",
     "(template/真の空白.md",
     "(question list/クロックアイテム関連.md",
-    "(outline/ざっくりあらすじ.md",
     "arima family/エレイン.md",
     "arima family/有馬リク.md",
     "arima family/有馬哲夫.md",
@@ -215,11 +217,7 @@
     "clockitem/0時　過去年表.md",
     "clockitem/overview/クロックアイテムについて.md",
     "(template/無題のカンバン.md",
-    "(question list/無題のファイル.md",
     "(question list",
-    "ryuji & Laiden/無題のカンバン.md",
-    "(script/1~10",
-    "(script",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
