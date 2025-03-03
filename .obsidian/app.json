@@ -6,5 +6,6 @@
   "smartIndentList": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "tabSize": 4
 }
