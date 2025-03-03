@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(overview/デッドエンドはもういらない.md",
+                "file": "Seger family/フレイア・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "デッドエンドはもういらない"
+              "title": "フレイア・アリエス"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(overview/デッドエンドはもういらない.md",
+                "file": "Seger family/フレイア・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "デッドエンドはもういらないへのバックリンク"
+              "title": "フレイア・アリエスへのバックリンク"
             }
           },
           {
@@ -185,8 +185,8 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "Seger family/フレイア・シーガー.md",
     "(overview/デッドエンドはもういらない.md",
+    "Seger family/フレイア・アリエス.md",
     "(template/レギュメン用プロフィール.md",
     "(template/空白の設定.md",
     "(idealist/name-jp.md",
