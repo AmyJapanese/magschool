@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aries family/ロジャー・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ロジャー・アリエス"
+              "title": "一年目あらすじ"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aries family/ロジャー・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "ロジャー・アリエスからのアウトゴーイングリンク"
+              "title": "一年目あらすじからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aries family/ロジャー・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ロジャー・アリエスへのバックリンク"
+              "title": "一年目あらすじへのバックリンク"
             }
           }
         ]
@@ -188,10 +188,10 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "91da9d076211d2ce",
+  "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "filreil house/キャシー・レイン.md",
     "Aries family/ロジャー・アリエス.md",
+    "filreil house/キャシー・レイン.md",
     "Aries family/フレイア・アリエス.md",
     "(template/端役用プロフィール.md",
     "(template/脇役用プロフィール.md",
