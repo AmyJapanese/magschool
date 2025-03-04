@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フレイア・アリエス"
+              "title": "一年目あらすじ"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "フレイア・アリエスへのバックリンク"
+              "title": "一年目あらすじへのバックリンク"
             }
           }
         ],
@@ -191,8 +191,8 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "Aries family/ロジャー・アリエス.md",
     "Aries family/フレイア・アリエス.md",
+    "Aries family/ロジャー・アリエス.md",
     "geography/language/エリシア語.md",
     "geography/country/エリシア王国.md",
     "geography/country",
