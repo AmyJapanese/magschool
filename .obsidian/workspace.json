@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geography/language/エリシア語.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "エリシア語"
+              "title": "フレイア・アリエス"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geography/language/エリシア語.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "エリシア語へのバックリンク"
+              "title": "フレイア・アリエスへのバックリンク"
             }
           }
         ],
@@ -191,8 +191,10 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "geography/country/エリシア王国.md",
+    "Aries family/ロジャー・アリエス.md",
+    "Aries family/フレイア・アリエス.md",
     "geography/language/エリシア語.md",
+    "geography/country/エリシア王国.md",
     "geography/country",
     "(outline/year 1/一年目あらすじ.md",
     "immorter/leader",
@@ -204,9 +206,7 @@
     "(idealist/name-jp.md",
     "immorter/leader/ロード・モルガン.md",
     "immorter/(overview/イモーターについて.md",
-    "Aries family/フレイア・アリエス.md",
     "geography",
-    "Aries family/ロジャー・アリエス.md",
     "two world/real world/ハルフォードは魔導学校.md",
     "(outline/year 1",
     "(outline",
