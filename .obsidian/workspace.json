@@ -80,8 +80,8 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
+              "icon": "trash",
+              "title": "Trash explorer"
             }
           }
         ]
@@ -188,7 +188,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "91da9d076211d2ce",
   "lastOpenFiles": [
     "filreil house/キャシー・レイン.md",
     "Aries family/ロジャー・アリエス.md",
