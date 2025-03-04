@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "filreil house/キャシー・レイン.md",
+                "file": "Aries family/ロジャー・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キャシー・レイン"
+              "title": "ロジャー・アリエス"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "filreil house/キャシー・レイン.md",
+                "file": "Aries family/ロジャー・アリエス.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "キャシー・レインからのアウトゴーイングリンク"
+              "title": "ロジャー・アリエスからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "filreil house/キャシー・レイン.md",
+                "file": "Aries family/ロジャー・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "キャシー・レインへのバックリンク"
+              "title": "ロジャー・アリエスへのバックリンク"
             }
           }
         ]
@@ -190,11 +190,17 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "(outline/year 1/一年目あらすじ.md",
-    "filreil house/キャシー・レイン.md",
-    "filreil house",
     "Aries family/フレイア・アリエス.md",
     "Aries family/ロジャー・アリエス.md",
+    "(template/端役用プロフィール.md",
+    "(template/脇役用プロフィール.md",
+    "(template/空白の設定.md",
+    "(template/質問リスト用.md",
+    "(template/真の空白.md",
+    "(template/レギュメン用プロフィール.md",
+    "filreil house/キャシー・レイン.md",
+    "(outline/year 1/一年目あらすじ.md",
+    "filreil house",
     "geography/language/エリシア語.md",
     "geography/country/エリシア王国.md",
     "geography/country",
@@ -212,11 +218,7 @@
     "(outline/year 1",
     "(outline",
     "two world/real world",
-    "(template/レギュメン用プロフィール.md",
-    "(template/空白の設定.md",
-    "(template/質問リスト用.md",
     "無題のファイル.md",
-    "(template/真の空白.md",
     "(question list/クロックアイテム関連.md",
     "arima family/エレイン.md",
     "arima family/有馬リク.md",
@@ -224,8 +226,6 @@
     "clockitem/6時　現在ボード.md",
     "clockitem/9時　必要時計.md",
     "ryuji & Laiden/天原リュウジ.md",
-    "clockitem/3時　野望コンパス.md",
-    "clockitem/0時　過去年表.md",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
