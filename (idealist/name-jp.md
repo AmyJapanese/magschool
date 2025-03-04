@@ -1,6 +1,7 @@
 # Material
+Genjitsu sekai
 # Surname
+かのう（４）
 # Given name
-まい（３）
-なの（４）
+せつ（５）
 # Fullname
