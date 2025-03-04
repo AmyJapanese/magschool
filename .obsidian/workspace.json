@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一年目あらすじ"
+              "title": "フレイア・アリエス"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "一年目あらすじからのアウトゴーイングリンク"
+              "title": "フレイア・アリエスからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "一年目あらすじへのバックリンク"
+              "title": "フレイア・アリエスへのバックリンク"
             }
           }
         ]
@@ -190,11 +190,11 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
+    "Aries family/ロジャー・アリエス.md",
     "Aries family/フレイア・アリエス.md",
     "(outline/year 1/一年目あらすじ.md",
     "(reference/ハイライト凡例.md",
     "(reference",
-    "Aries family/ロジャー・アリエス.md",
     "filreil house/キャシー・レイン.md",
     "(template/端役用プロフィール.md",
     "(template/脇役用プロフィール.md",
