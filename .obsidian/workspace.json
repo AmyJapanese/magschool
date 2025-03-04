@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geography/language/エリシア語.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "エリシア語からのアウトゴーイングリンク"
+              "title": "一年目あらすじからのアウトゴーイングリンク"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "一年目あらすじへのバックリンク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bb9f19e2fc49b619",
@@ -189,7 +188,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "e5e9b3d5d23bb5a5",
   "lastOpenFiles": [
     "Aries family/フレイア・アリエス.md",
     "Aries family/ロジャー・アリエス.md",
