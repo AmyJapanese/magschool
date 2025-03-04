@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "geography/language/エリシア語.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一年目あらすじ"
+              "title": "エリシア語"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "geography/language/エリシア語.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "一年目あらすじからのアウトゴーイングリンク"
+              "title": "エリシア語からのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "geography/language/エリシア語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "一年目あらすじへのバックリンク"
+              "title": "エリシア語へのバックリンク"
             }
           }
         ],
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "geography/language/エリシア語.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一年目あらすじのアウトライン"
+              "title": "エリシア語のアウトライン"
             }
           }
         ]
@@ -189,14 +189,17 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "91da9d076211d2ce",
+  "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "無題のフォルダ",
-    "(overview/死亡キャラを救いたい！.md",
-    "geography/language",
     "(outline/year 1/一年目あらすじ.md",
+    "immorter/leader",
+    "(overview/死亡キャラを救いたい！.md",
+    "Halford school/(overwiew/ハルフォード魔導学校.md",
+    "Halford school/(overwiew",
+    "Halford school",
+    "geography/language",
     "(idealist/name-jp.md",
-    "immorter/ロード・モルガン.md",
+    "immorter/leader/ロード・モルガン.md",
     "immorter/(overview/イモーターについて.md",
     "geography/language/エリシア語.md",
     "Aries family/フレイア・アリエス.md",
@@ -208,13 +211,10 @@
     "two world/real world",
     "two world",
     "immorter/(overview",
-    "immorter",
     "(template/レギュメン用プロフィール.md",
     "(template/空白の設定.md",
     "(template/質問リスト用.md",
-    "Aries family",
     "無題のファイル.md",
-    "(overview",
     "(template/真の空白.md",
     "(question list/クロックアイテム関連.md",
     "arima family/エレイン.md",
@@ -226,7 +226,6 @@
     "clockitem/3時　野望コンパス.md",
     "clockitem/0時　過去年表.md",
     "clockitem/overview/クロックアイテムについて.md",
-    "(template/無題のカンバン.md",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
