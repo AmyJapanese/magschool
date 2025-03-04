@@ -99,25 +99,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee49170506042b8f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "immorter/ロード・モルガン.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "ロード・モルガンへのバックリンク"
-            }
-          },
-          {
             "id": "e5e9b3d5d23bb5a5",
             "type": "leaf",
             "state": {
@@ -132,20 +113,31 @@
             }
           },
           {
-            "id": "83c03da9fd04d78e",
+            "id": "ee49170506042b8f",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "immorter/ロード・モルガン.md",
-                "followCursor": false,
+                "file": "Alies family/フレイア・アリエス.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
-              "icon": "lucide-list",
-              "title": "ロード・モルガンのアウトライン"
+              "icon": "links-coming-in",
+              "title": "フレイア・アリエスへのバックリンク"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bb9f19e2fc49b619",
+        "type": "tabs",
+        "children": [
           {
             "id": "8117595852f0a388",
             "type": "leaf",
@@ -160,13 +152,27 @@
               "icon": "lucide-tags",
               "title": "タグ"
             }
+          },
+          {
+            "id": "83c03da9fd04d78e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Alies family/フレイア・アリエス.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "フレイア・アリエスのアウトライン"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +189,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "8117595852f0a388",
   "lastOpenFiles": [
     "Alies family/ロジャー・アリエス.md",
     "Alies family/フレイア・アリエス.md",
