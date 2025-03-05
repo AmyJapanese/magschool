@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フレイア・アリエス"
+              "title": "一年目あらすじ"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.50188446044922
   },
   "right": {
     "id": "6f09e85e6f69eb6d",
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "フレイア・アリエスからのアウトゴーイングリンク"
+              "title": "一年目あらすじからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "フレイア・アリエスへのバックリンク"
+              "title": "一年目あらすじへのバックリンク"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
+    "Aries family/レイア・アリエス.md",
     "Aries family/ロジャー・アリエス.md",
-    "Aries family/フレイア・アリエス.md",
     "(outline/year 1/一年目あらすじ.md",
     "(reference/ハイライト凡例.md",
     "(reference",
