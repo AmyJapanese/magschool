@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aries family/レイア・アリエス.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "レイア・アリエス"
+              "title": "フレイア・アリエス"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aries family/レイア・アリエス.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "レイア・アリエスからのアウトゴーイングリンク"
+              "title": "フレイア・アリエスからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,20 +118,21 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aries family/レイア・アリエス.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "レイア・アリエスへのバックリンク"
+              "title": "フレイア・アリエスへのバックリンク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bb9f19e2fc49b619",
@@ -171,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +192,11 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
-    "katzlog/フィー・ロックウェル.md",
     "(outline/year 1/一年目あらすじ.md",
-    "katzlog",
-    "Aries family/レイア・アリエス.md",
+    "Aries family/フレイア・アリエス.md",
     "Aries family/ロジャー・アリエス.md",
+    "katzlog/フィー・ロックウェル.md",
+    "katzlog",
     "(reference/ハイライト凡例.md",
     "(reference",
     "filreil house/キャシー・レイン.md",
