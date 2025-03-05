@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/レイア・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一年目あらすじ"
+              "title": "レイア・アリエス"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/レイア・アリエス.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "一年目あらすじからのアウトゴーイングリンク"
+              "title": "レイア・アリエスからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/レイア・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "一年目あらすじへのバックリンク"
+              "title": "レイア・アリエスへのバックリンク"
             }
           }
         ]
@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +190,11 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
+    "katzlog/フィー・ロックウェル.md",
+    "(outline/year 1/一年目あらすじ.md",
+    "katzlog",
     "Aries family/レイア・アリエス.md",
     "Aries family/ロジャー・アリエス.md",
-    "(outline/year 1/一年目あらすじ.md",
     "(reference/ハイライト凡例.md",
     "(reference",
     "filreil house/キャシー・レイン.md",
@@ -218,14 +220,12 @@
     "geography",
     "two world/real world/ハルフォードは魔導学校.md",
     "(outline/year 1",
-    "(outline",
     "無題のファイル.md",
     "(question list/クロックアイテム関連.md",
     "arima family/エレイン.md",
     "arima family/有馬リク.md",
     "arima family/有馬哲夫.md",
     "clockitem/6時　現在ボード.md",
-    "clockitem/9時　必要時計.md",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
