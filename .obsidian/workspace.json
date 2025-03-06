@@ -80,8 +80,8 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "trash",
-              "title": "Trash explorer"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           }
         ]
@@ -175,7 +175,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-trash-explorer:Open trash explorer": false,
       "command-palette:コマンドパレットを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
@@ -184,6 +183,7 @@
       "templates:テンプレートを挿入": false,
       "random-note:ランダムノートを開く": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-git:Open Git source control": false,
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
