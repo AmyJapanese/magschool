@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "two world/real world/ハルフォードは魔導学校.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "フレイア・アリエスからのアウトゴーイングリンク"
+              "title": "ハルフォードは魔導学校からのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "two world/real world/ハルフォードは魔導学校.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +128,10 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "フレイア・アリエスへのバックリンク"
+              "title": "ハルフォードは魔導学校へのバックリンク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bb9f19e2fc49b619",
@@ -172,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +188,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "e5e9b3d5d23bb5a5",
   "lastOpenFiles": [
     "(outline/year 1/一年目あらすじ.md",
     "Aries family/フレイア・アリエス.md",
