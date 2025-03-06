@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "フレイア・アリエス"
             }
-          },
-          {
-            "id": "9ba65f8df8fd1dfc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +190,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "9ba65f8df8fd1dfc",
+  "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
     "(outline/year 1/一年目あらすじ.md",
     "Aries family/フレイア・アリエス.md",
