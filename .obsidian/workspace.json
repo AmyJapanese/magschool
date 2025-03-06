@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "アメリア",
+                "query": "tag:#hero/common",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,11 +80,12 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
+              "icon": "trash",
+              "title": "Trash explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-trash-explorer:Open trash explorer": false,
       "command-palette:コマンドパレットを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
@@ -183,12 +185,11 @@
       "templates:テンプレートを挿入": false,
       "random-note:ランダムノートを開く": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-git:Open Git source control": false,
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "00a8e91a1cebbec9",
   "lastOpenFiles": [
     "two world/real world/ハルフォードは魔導学校.md",
     "(outline/year 1/一年目あらすじ.md",
