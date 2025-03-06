@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hero/common",
+                "query": "tag:#filreil/student",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "00a8e91a1cebbec9",
+  "active": "8117595852f0a388",
   "lastOpenFiles": [
     "two world/real world/ハルフォードは魔導学校.md",
     "(outline/year 1/一年目あらすじ.md",
