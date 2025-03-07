@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一年目あらすじ"
+              "title": "フレイア・アリエス"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "一年目あらすじからのアウトゴーイングリンク"
+              "title": "フレイア・アリエスからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "一年目あらすじへのバックリンク"
+              "title": "フレイア・アリエスへのバックリンク"
             }
           }
         ]
@@ -188,13 +188,13 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "91da9d076211d2ce",
+  "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
+    "(outline/year 1/一年目あらすじ.md",
     "geography/magic school",
     "Aries family/ロジャー・アリエス.md",
     "Aries family/フレイア・アリエス.md",
     "two world/real world/ハルフォードは魔導学校.md",
-    "(outline/year 1/一年目あらすじ.md",
     "katzlog/フィー・ロックウェル.md",
     "katzlog",
     "(reference/ハイライト凡例.md",
@@ -220,7 +220,6 @@
     "immorter/leader/ロード・モルガン.md",
     "immorter/(overview/イモーターについて.md",
     "geography",
-    "(outline/year 1",
     "無題のファイル.md",
     "(question list/クロックアイテム関連.md",
     "arima family/エレイン.md",
