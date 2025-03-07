@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フレイア・アリエス"
+              "title": "一年目あらすじ"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "フレイア・アリエスからのアウトゴーイングリンク"
+              "title": "一年目あらすじからのアウトゴーイングリンク"
             }
           },
           {
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "フレイア・アリエスへのバックリンク"
+              "title": "一年目あらすじへのバックリンク"
             }
           }
         ]
@@ -189,12 +188,13 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "00a8e91a1cebbec9",
+  "active": "91da9d076211d2ce",
   "lastOpenFiles": [
+    "geography/magic school",
+    "Aries family/ロジャー・アリエス.md",
+    "Aries family/フレイア・アリエス.md",
     "two world/real world/ハルフォードは魔導学校.md",
     "(outline/year 1/一年目あらすじ.md",
-    "Aries family/フレイア・アリエス.md",
-    "Aries family/ロジャー・アリエス.md",
     "katzlog/フィー・ロックウェル.md",
     "katzlog",
     "(reference/ハイライト凡例.md",
@@ -226,7 +226,6 @@
     "arima family/エレイン.md",
     "arima family/有馬リク.md",
     "arima family/有馬哲夫.md",
-    "clockitem/6時　現在ボード.md",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
