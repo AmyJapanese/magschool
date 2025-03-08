@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teacher/マキナ・デウスギア.md",
+                "file": "Aries family/ロジャー・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "マキナ・デウスギア"
+              "title": "ロジャー・アリエス"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teacher/マキナ・デウスギア.md",
+                "file": "Aries family/ロジャー・アリエス.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "マキナ・デウスギアからのアウトゴーイングリンク"
+              "title": "ロジャー・アリエスからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teacher/マキナ・デウスギア.md",
+                "file": "Aries family/ロジャー・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "マキナ・デウスギアへのバックリンク"
+              "title": "ロジャー・アリエスへのバックリンク"
             }
           }
         ]
@@ -188,15 +188,15 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "e5e9b3d5d23bb5a5",
   "lastOpenFiles": [
-    "Halford school/(overwiew/ハルフォード魔導学校.md",
+    "(outline/year 1/一年目あらすじ.md",
     "teacher/マキナ・デウスギア.md",
+    "Halford school/(overwiew/ハルフォード魔導学校.md",
     "katzlog/フィー・ロックウェル.md",
     "(template/レギュメン用プロフィール.md",
     "Aries family/フレイア・アリエス.md",
     "Aries family/ロジャー・アリエス.md",
-    "(outline/year 1/一年目あらすじ.md",
     "teacher",
     "(images/charts",
     "(images",
