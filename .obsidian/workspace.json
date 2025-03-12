@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teacher/マキナ・デウスギア.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "マキナ・デウスギア"
+              "title": "フレイア・アリエス"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teacher/マキナ・デウスギア.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "マキナ・デウスギアからのアウトゴーイングリンク"
+              "title": "フレイア・アリエスからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teacher/マキナ・デウスギア.md",
+                "file": "Aries family/フレイア・アリエス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "マキナ・デウスギアへのバックリンク"
+              "title": "フレイア・アリエスへのバックリンク"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
+    "teacher/マキナ・デウスギア.md",
     "(outline/year 1/一年目あらすじ.md",
     "Aries family/ロジャー・アリエス.md",
-    "teacher/マキナ・デウスギア.md",
     "Halford school/(overwiew/ハルフォード魔導学校.md",
     "katzlog/フィー・ロックウェル.md",
     "(template/レギュメン用プロフィール.md",
