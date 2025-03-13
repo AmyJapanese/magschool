@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "geography/country/ネールディア共和国.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一年目あらすじ"
+              "title": "ネールディア共和国"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "geography/country/ネールディア共和国.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "一年目あらすじからのアウトゴーイングリンク"
+              "title": "ネールディア共和国からのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "geography/country/ネールディア共和国.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "一年目あらすじへのバックリンク"
+              "title": "ネールディア共和国へのバックリンク"
             }
           }
         ]
@@ -188,10 +188,16 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "ed85111a2fc90be7",
+  "active": "91da9d076211d2ce",
   "lastOpenFiles": [
-    "Aries family/ロジャー・アリエス.md",
+    "(sentence",
+    "geography/magic school/パラデア魔導アカデミー.md",
+    "geography/country/ネールディア共和国.md",
+    "geography/country/エリシア王国.md",
+    "geography/language/エリシア語.md",
     "Aries family/フレイア・アリエス.md",
+    "(outline/year 1/一年目あらすじ.md",
+    "Aries family/ロジャー・アリエス.md",
     "(overview/死亡キャラを救いたい！.md",
     "magic overview/魔法陣.md",
     "magic spell/転移魔法.md",
@@ -199,7 +205,6 @@
     "(template/あとがきテンプレ.md",
     "magic spell",
     "teacher/マキナ・デウスギア.md",
-    "(outline/year 1/一年目あらすじ.md",
     "Halford school/(overwiew/ハルフォード魔導学校.md",
     "katzlog/フィー・ロックウェル.md",
     "(template/レギュメン用プロフィール.md",
@@ -221,13 +226,8 @@
     "(template/空白の設定.md",
     "(template/質問リスト用.md",
     "(template/真の空白.md",
-    "geography/language/エリシア語.md",
-    "geography/country/エリシア王国.md",
     "(idealist/name-jp.md",
     "immorter/leader/ロード・モルガン.md",
-    "immorter/(overview/イモーターについて.md",
-    "無題のファイル.md",
-    "(question list/クロックアイテム関連.md",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
