@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "(outline/year 1/アリスニアで買い物.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一年目あらすじ"
+              "title": "アリスニアで買い物"
             }
           }
         ]
@@ -99,55 +99,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5e9b3d5d23bb5a5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "一年目あらすじからのアウトゴーイングリンク"
-            }
-          },
-          {
-            "id": "ee49170506042b8f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "一年目あらすじへのバックリンク"
-            }
-          },
-          {
             "id": "83c03da9fd04d78e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "(outline/year 1/一年目あらすじ.md",
+                "file": "(outline/year 1/アリスニアで買い物.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一年目あらすじのアウトライン"
+              "title": "アリスニアで買い物のアウトライン"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "bb9f19e2fc49b619",
@@ -167,8 +133,42 @@
               "icon": "lucide-tags",
               "title": "タグ"
             }
+          },
+          {
+            "id": "ee49170506042b8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "(outline/year 1/アリスニアで買い物.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "アリスニアで買い物へのバックリンク"
+            }
+          },
+          {
+            "id": "e5e9b3d5d23bb5a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "(outline/year 1/アリスニアで買い物.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "アリスニアで買い物からのアウトゴーイングリンク"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -189,8 +189,12 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "83c03da9fd04d78e",
+  "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
+    "(outline/year 1/あらすじあたり.md",
+    "geography/city&town/アリスニア.md",
+    "(outline/year 1/アリスニアで買い物.md",
+    "geography/city&town",
     "(overview/死亡キャラを救いたい！.md",
     "Aries family/フレイア・アリエス.md",
     "filreil house/キャシー・レイン.md",
@@ -201,7 +205,6 @@
     "(sentence/質問リスト・ルール.md",
     "(sentence",
     "geography/magic school/パラデア魔導アカデミー.md",
-    "(outline/year 1/一年目あらすじ.md",
     "magic overview/魔法陣.md",
     "magic spell/転移魔法.md",
     "magic overview",
@@ -219,7 +222,6 @@
     "フレイアのチャート.png.crdownload",
     "(charts",
     "新しいフォルダー",
-    "geography/magic school",
     "two world/real world/ハルフォードは魔導学校.md",
     "(reference/ハイライト凡例.md",
     "(template/端役用プロフィール.md",
@@ -227,7 +229,6 @@
     "(template/空白の設定.md",
     "(template/真の空白.md",
     "(idealist/name-jp.md",
-    "immorter/leader/ロード・モルガン.md",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
