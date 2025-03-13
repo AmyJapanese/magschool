@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(template/あとがきテンプレ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フレイア・アリエス"
+              "title": "あとがきテンプレ"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(template/あとがきテンプレ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "フレイア・アリエスからのアウトゴーイングリンク"
+              "title": "あとがきテンプレからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aries family/フレイア・アリエス.md",
+                "file": "(template/あとがきテンプレ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "フレイア・アリエスへのバックリンク"
+              "title": "あとがきテンプレへのバックリンク"
             }
           }
         ]
@@ -190,13 +190,14 @@
   },
   "active": "ed85111a2fc90be7",
   "lastOpenFiles": [
+    "Aries family/フレイア・アリエス.md",
+    "(template/あとがきテンプレ.md",
     "teacher/マキナ・デウスギア.md",
     "(outline/year 1/一年目あらすじ.md",
     "Aries family/ロジャー・アリエス.md",
     "Halford school/(overwiew/ハルフォード魔導学校.md",
     "katzlog/フィー・ロックウェル.md",
     "(template/レギュメン用プロフィール.md",
-    "Aries family/フレイア・アリエス.md",
     "teacher",
     "(images/charts",
     "(images",
@@ -227,7 +228,6 @@
     "(question list/クロックアイテム関連.md",
     "arima family/エレイン.md",
     "arima family/有馬リク.md",
-    "arima family/有馬哲夫.md",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
