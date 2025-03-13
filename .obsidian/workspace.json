@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geography/country/ネールディア共和国.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ネールディア共和国"
+              "title": "一年目あらすじ"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geography/country/ネールディア共和国.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "ネールディア共和国からのアウトゴーイングリンク"
+              "title": "一年目あらすじからのアウトゴーイングリンク"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geography/country/ネールディア共和国.md",
+                "file": "(outline/year 1/一年目あらすじ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +128,26 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ネールディア共和国へのバックリンク"
+              "title": "一年目あらすじへのバックリンク"
+            }
+          },
+          {
+            "id": "83c03da9fd04d78e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "(outline/year 1/一年目あらすじ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "一年目あらすじのアウトライン"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bb9f19e2fc49b619",
@@ -150,21 +166,6 @@
               },
               "icon": "lucide-tags",
               "title": "タグ"
-            }
-          },
-          {
-            "id": "83c03da9fd04d78e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "geography/language/エリシア語.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "エリシア語のアウトライン"
             }
           }
         ]
@@ -188,21 +189,23 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "91da9d076211d2ce",
+  "active": "83c03da9fd04d78e",
   "lastOpenFiles": [
+    "(overview/死亡キャラを救いたい！.md",
+    "Aries family/フレイア・アリエス.md",
+    "filreil house/キャシー・レイン.md",
+    "Aries family/ロジャー・アリエス.md",
+    "geography/language/エリシア語.md",
+    "geography/country/エリシア王国.md",
+    "geography/country/ネールディア共和国.md",
+    "(sentence/質問リスト・ルール.md",
     "(sentence",
     "geography/magic school/パラデア魔導アカデミー.md",
-    "geography/country/ネールディア共和国.md",
-    "geography/country/エリシア王国.md",
-    "geography/language/エリシア語.md",
-    "Aries family/フレイア・アリエス.md",
     "(outline/year 1/一年目あらすじ.md",
-    "Aries family/ロジャー・アリエス.md",
-    "(overview/死亡キャラを救いたい！.md",
     "magic overview/魔法陣.md",
     "magic spell/転移魔法.md",
     "magic overview",
-    "(template/あとがきテンプレ.md",
+    "(sentence/あとがきテンプレ.md",
     "magic spell",
     "teacher/マキナ・デウスギア.md",
     "Halford school/(overwiew/ハルフォード魔導学校.md",
@@ -218,13 +221,10 @@
     "新しいフォルダー",
     "geography/magic school",
     "two world/real world/ハルフォードは魔導学校.md",
-    "katzlog",
     "(reference/ハイライト凡例.md",
-    "filreil house/キャシー・レイン.md",
     "(template/端役用プロフィール.md",
     "(template/脇役用プロフィール.md",
     "(template/空白の設定.md",
-    "(template/質問リスト用.md",
     "(template/真の空白.md",
     "(idealist/name-jp.md",
     "immorter/leader/ロード・モルガン.md",
