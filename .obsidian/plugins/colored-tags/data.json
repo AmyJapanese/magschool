@@ -149,7 +149,10 @@
     "hero/common": 3,
     "filreil/teacher": 2,
     "mentor/father": 4,
-    "McGuffin": 58
+    "McGuffin": 58,
+    "aricenear": 59,
+    "alicenear": 60,
+    "namedmob": 61
   },
   "_version": 3
 }
