@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c70ee4d7ffa0e355",
@@ -173,7 +173,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "3c13bdcbde229aa0",
+  "active": "bfbce46682967c73",
   "lastOpenFiles": [
     "(sentence/あとがきテンプレ.md",
     "geography/country/ネールディア共和国.md",
