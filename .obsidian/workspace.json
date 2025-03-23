@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(template/端役用プロフィール.md",
+                "file": "(outline/year 1/アリスニアで買い物.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "端役用プロフィール"
+              "title": "アリスニアで買い物"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(template/端役用プロフィール.md",
+                "file": "(outline/year 1/アリスニアで買い物.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "端役用プロフィールへのバックリンク"
+              "title": "アリスニアで買い物へのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(template/端役用プロフィール.md",
+                "file": "(outline/year 1/アリスニアで買い物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "端役用プロフィールからのアウトゴーイングリンク"
+              "title": "アリスニアで買い物からのアウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(template/端役用プロフィール.md",
+                "file": "(outline/year 1/アリスニアで買い物.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "端役用プロフィールのアウトライン"
+              "title": "アリスニアで買い物のアウトライン"
             }
           }
         ]
@@ -173,8 +173,11 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "bfbce46682967c73",
+  "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
+    "(outline/year 1/あらすじあたり.md",
+    "halford teacher/executive/マキナ・デウスギア.md",
+    "(template/端役用プロフィール.md",
     "(sentence/あとがきテンプレ.md",
     "geography/country/ネールディア共和国.md",
     "geography/country/エリシア王国.md",
