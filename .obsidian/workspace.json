@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sedna hansrick/セドナ・ハンスリック.md",
+                "file": "filreil house/ヘレナ・ローゼンバウム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "セドナ・ハンスリック"
+              "title": "ヘレナ・ローゼンバウム"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sedna hansrick/セドナ・ハンスリック.md",
+                "file": "filreil house/ヘレナ・ローゼンバウム.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "セドナ・ハンスリックへのバックリンク"
+              "title": "ヘレナ・ローゼンバウムへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sedna hansrick/セドナ・ハンスリック.md",
+                "file": "filreil house/ヘレナ・ローゼンバウム.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "セドナ・ハンスリックからのアウトゴーイングリンク"
+              "title": "ヘレナ・ローゼンバウムからのアウトゴーイングリンク"
             }
           },
           {
@@ -175,13 +175,14 @@
   },
   "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
-    "filreil house/フィー・ロックウェル.md",
+    "Alicenear citizen/アリスニア.md",
+    "filreil house/ヘレナ・ローゼンバウム.md",
     "Sedna hansrick/セドナ・ハンスリック.md",
+    "filreil house/フィー・ロックウェル.md",
     "filreil house/エル・リーヴズ.md",
     "Cathie Rein/キャシー・レイン.md",
     "Cathie Rein/ウェルト・レイン.md",
     "Alicenear citizen/アンダーソンの店.md",
-    "Alicenear citizen/アリスニア.md",
     "Alicenear citizen/ベニュー通り.md",
     "Alicenear citizen/マダム・ペルソン.md",
     "Alicenear citizen/アンダーソンさん.md",
@@ -201,7 +202,6 @@
     "geography/language/エリシア語.md",
     "geography/magic school/ストリクト魔法専門学校.md",
     "Sedna hansrick",
-    "(template/端役用プロフィール.md",
-    "geography/country/ネールディア共和国.md"
+    "(template/端役用プロフィール.md"
   ]
 }
