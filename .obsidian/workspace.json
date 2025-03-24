@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cathie Rein/キャシー・レイン.md",
+                "file": "halford teacher/executive/ヴィオラ・ランド.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キャシー・レイン"
+              "title": "ヴィオラ・ランド"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cathie Rein/キャシー・レイン.md",
+                "file": "halford teacher/executive/ヴィオラ・ランド.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "キャシー・レインへのバックリンク"
+              "title": "ヴィオラ・ランドへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cathie Rein/キャシー・レイン.md",
+                "file": "halford teacher/executive/ヴィオラ・ランド.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "キャシー・レインからのアウトゴーイングリンク"
+              "title": "ヴィオラ・ランドからのアウトゴーイングリンク"
             }
           },
           {
@@ -175,6 +175,9 @@
   },
   "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
+    "halford teacher/gorem/モーリス・グリーメン.md",
+    "halford teacher/executive/ヴィオラ・ランド.md",
+    "Cathie Rein/キャシー・レイン.md",
     "Cathie Rein/ウェルト・レイン.md",
     "halford teacher/executive/マキナ・デウスギア.md",
     "immorter/leader/ロード・モルガン.md",
@@ -187,11 +190,9 @@
     "(sentence/質問リスト・ルール.md",
     "Alicenear citizen/アンダーソンの店.md",
     "(outline/year 1/あらすじあたり.md",
-    "Cathie Rein/キャシー・レイン.md",
     "Cathie Rein",
     "filreil house/フィー・ロックウェル.md",
     "geography/language/エリシア語.md",
-    "halford teacher/gorem/モーリス・グリーメン.md",
     "Alicenear citizen/マダム・ペルソン.md",
     "Alicenear citizen/ベニュー通り.md",
     "Alicenear citizen/アリスニア.md",
