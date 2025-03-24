@@ -152,7 +152,10 @@
     "McGuffin": 58,
     "aricenear": 59,
     "alicenear": 60,
-    "namedmob": 61
+    "namedmob": 61,
+    "maxwell": 62,
+    "maxwell/gradurate": 1,
+    "maxwell/gradurat": 2
   },
   "_version": 3
 }
