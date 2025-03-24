@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cathie Rein/ウェルト・レイン.md",
+                "file": "Sedna hansrick/セドナ・ハンスリック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ウェルト・レイン"
+              "title": "セドナ・ハンスリック"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cathie Rein/ウェルト・レイン.md",
+                "file": "Sedna hansrick/セドナ・ハンスリック.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ウェルト・レインへのバックリンク"
+              "title": "セドナ・ハンスリックへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cathie Rein/ウェルト・レイン.md",
+                "file": "Sedna hansrick/セドナ・ハンスリック.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "ウェルト・レインからのアウトゴーイングリンク"
+              "title": "セドナ・ハンスリックからのアウトゴーイングリンク"
             }
           },
           {
@@ -175,6 +175,11 @@
   },
   "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
+    "filreil house/フィー・ロックウェル.md",
+    "Sedna hansrick/セドナ・ハンスリック.md",
+    "filreil house/エル・リーヴズ.md",
+    "Cathie Rein/キャシー・レイン.md",
+    "Cathie Rein/ウェルト・レイン.md",
     "Alicenear citizen/アンダーソンの店.md",
     "Alicenear citizen/アリスニア.md",
     "Alicenear citizen/ベニュー通り.md",
@@ -182,11 +187,7 @@
     "Alicenear citizen/アンダーソンさん.md",
     "halford teacher/executive/ヴィオラ・ランド.md",
     "halford teacher/executive/マキナ・デウスギア.md",
-    "filreil house/エル・リーヴズ.md",
-    "filreil house/フィー・ロックウェル.md",
-    "Cathie Rein/ウェルト・レイン.md",
     "halford teacher/gorem/モーリス・グリーメン.md",
-    "Cathie Rein/キャシー・レイン.md",
     "immorter/leader/ロード・モルガン.md",
     "Halford school/(overwiew/ハルフォード魔導学校.md",
     "Freya Aries/カロー.md",
@@ -199,9 +200,8 @@
     "Cathie Rein",
     "geography/language/エリシア語.md",
     "geography/magic school/ストリクト魔法専門学校.md",
-    "hansrick family",
+    "Sedna hansrick",
     "(template/端役用プロフィール.md",
-    "geography/country/ネールディア共和国.md",
-    "geography/country/エリシア王国.md"
+    "geography/country/ネールディア共和国.md"
   ]
 }
