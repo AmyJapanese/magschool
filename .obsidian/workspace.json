@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Lylic/もしも未来がわかるなら.md",
+                "file": "(Lylic/嘘を信じる.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "もしも未来がわかるなら"
+              "title": "嘘を信じる"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(Lylic/もしも未来がわかるなら.md",
+                "file": "(Lylic/嘘を信じる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "もしも未来がわかるならからのアウトゴーイングリンク"
+              "title": "嘘を信じるからのアウトゴーイングリンク"
             }
           },
           {
@@ -175,8 +175,10 @@
   },
   "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
-    "(sentence/あとがきテンプレ.md",
+    "(template/空白の詩.md",
+    "(Lylic/嘘を信じる.md",
     "(Lylic/もしも未来がわかるなら.md",
+    "(sentence/あとがきテンプレ.md",
     "(Lylic/無題のフォルダ",
     "(Lylic",
     "(outline/year 1/ハルフォード号.md",
@@ -201,8 +203,6 @@
     "halford teacher/executive/マキナ・デウスギア.md",
     "halford teacher/gorem/モーリス・グリーメン.md",
     "immorter/leader/ロード・モルガン.md",
-    "Halford school/(overwiew/ハルフォード魔導学校.md",
-    "Freya Aries/カロー.md",
     "Cathie Rein",
     "Sedna hansrick"
   ]
