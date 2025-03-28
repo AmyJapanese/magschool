@@ -11,17 +11,14 @@
             "id": "3c13bdcbde229aa0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "(outline/year 1/あらすじキャンバス.canvas",
-                "viewState": {
-                  "x": 120.06239364276422,
-                  "y": -23.008747880884904,
-                  "zoom": -0.5160405167459527
-                }
+                "file": "(outline/year 1/アリスニアで買い物.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "あらすじキャンバス"
+              "icon": "lucide-file",
+              "title": "アリスニアで買い物"
             }
           }
         ]
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(outline/year 1/あらすじキャンバス.canvas",
+                "file": "(outline/year 1/アリスニアで買い物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "あらすじキャンバスからのアウトゴーイングリンク"
+              "title": "アリスニアで買い物からのアウトゴーイングリンク"
             }
           },
           {
@@ -178,8 +175,8 @@
   },
   "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
-    "(outline/year 1/アリスニアで買い物.md",
     "(outline/year 1/あらすじキャンバス.canvas",
+    "(outline/year 1/アリスニアで買い物.md",
     "(outline/year 1/あらすじあたり.md",
     "(Lylic/もしも未来がわかるなら.md",
     "(Lylic/嘘と真.md",
