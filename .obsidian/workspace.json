@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Lylic/嘘と真.md",
+                "file": "(Lylic/すこしぐらいの過ちも.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "嘘と真"
+              "title": "すこしぐらいの過ちも"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Lylic/嘘と真.md",
+                "file": "(Lylic/すこしぐらいの過ちも.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "嘘と真へのバックリンク"
+              "title": "すこしぐらいの過ちもへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(Lylic/嘘と真.md",
+                "file": "(Lylic/すこしぐらいの過ちも.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "嘘と真からのアウトゴーイングリンク"
+              "title": "すこしぐらいの過ちもからのアウトゴーイングリンク"
             }
           },
           {
@@ -175,10 +175,10 @@
   },
   "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
+    "(Lylic/嘘と真.md",
     "(Lylic/もしも未来がわかるなら.md",
     "(Lylic/すこしぐらいの過ちも.md",
     "(Lylic/運命と魔法.md",
-    "(Lylic/嘘と真.md",
     "(outline/year 1/アリスニアで買い物.md",
     "(outline/year 1/あらすじあたり.md",
     "(outline/year 1/ハルフォード号.md",
