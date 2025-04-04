@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cathie Rein/ウェルト・レイン.md",
+                "file": "filreil house/エル・リーヴズ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ウェルト・レイン"
+              "title": "エル・リーヴズ"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cathie Rein/ウェルト・レイン.md",
+                "file": "filreil house/エル・リーヴズ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "ウェルト・レインからのアウトゴーイングリンク"
+              "title": "エル・リーヴズからのアウトゴーイングリンク"
             }
           },
           {
@@ -175,6 +175,7 @@
   },
   "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
+    "Cathie Rein/ウェルト・レイン.md",
     "Cathie Rein/キャシー・レイン.md",
     "Alicenear citizen/マダム・ペルソン.md",
     "(Lylic/ハッピーエンド.md",
@@ -203,7 +204,6 @@
     "Alicenear citizen/アリスニア.md",
     "Sedna hansrick/セドナ・ハンスリック.md",
     "filreil house/エル・リーヴズ.md",
-    "Cathie Rein/ウェルト・レイン.md",
     "Cathie Rein",
     "Sedna hansrick"
   ]
