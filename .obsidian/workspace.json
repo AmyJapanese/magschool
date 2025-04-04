@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Lylic/希望の魔法.md",
+                "file": "Cathie Rein/ウェルト・レイン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "希望の魔法"
+              "title": "ウェルト・レイン"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(Lylic/希望の魔法.md",
+                "file": "Cathie Rein/ウェルト・レイン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "希望の魔法からのアウトゴーイングリンク"
+              "title": "ウェルト・レインからのアウトゴーイングリンク"
             }
           },
           {
@@ -175,11 +175,13 @@
   },
   "active": "3c13bdcbde229aa0",
   "lastOpenFiles": [
-    "(Lylic/もしも未来がわかるなら.md",
-    "(Lylic/希望の魔法.md",
-    "(Lylic/嘘と真.md",
+    "Cathie Rein/キャシー・レイン.md",
+    "Alicenear citizen/マダム・ペルソン.md",
     "(Lylic/ハッピーエンド.md",
     "(Lylic/すこしぐらいの過ちも.md",
+    "(Lylic/もしも未来がわかるなら.md",
+    "(Lylic/嘘と真.md",
+    "(Lylic/希望の魔法.md",
     "(Lylic/無題のファイル.md",
     "(outline/year 1/アリスニアで買い物.md",
     "(outline/year 1/あらすじあたり.md",
@@ -201,9 +203,7 @@
     "Alicenear citizen/アリスニア.md",
     "Sedna hansrick/セドナ・ハンスリック.md",
     "filreil house/エル・リーヴズ.md",
-    "Cathie Rein/キャシー・レイン.md",
     "Cathie Rein/ウェルト・レイン.md",
-    "Alicenear citizen/アンダーソンの店.md",
     "Cathie Rein",
     "Sedna hansrick"
   ]
